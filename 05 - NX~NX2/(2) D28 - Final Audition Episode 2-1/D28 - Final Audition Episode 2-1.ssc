@@ -20051,7 +20051,7 @@
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Phantomia Session;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:COOP 2P QUEST;
 #DIFFICULTY:Edit;
 #METER:99;

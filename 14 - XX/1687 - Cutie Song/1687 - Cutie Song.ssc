@@ -13159,7 +13159,7 @@
 
 
 #NOTEDATA:;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:COOP 3P;
 #DIFFICULTY:Edit;
 #METER:99;

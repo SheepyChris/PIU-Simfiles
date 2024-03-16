@@ -14335,7 +14335,7 @@ F0{3|n|1|0}0F
 
 
 #NOTEDATA:;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:COOP 3P;
 #DIFFICULTY:Edit;
 #METER:99;

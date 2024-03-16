@@ -6835,7 +6835,7 @@
 
 #NOTEDATA:;
 #CHARTNAME:Classic Nightmare - COOP 3P;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:COOP 3P HIDDEN;
 #DIFFICULTY:Edit;
 #METER:99;
@@ -19105,7 +19105,7 @@ MM{M|n|1|0}{M|n|1|0}{M|n|1|0}{M|n|1|0}{M|n|1|0}{M|n|1|0}MM
 
 #NOTEDATA:;
 #CHARTNAME:Fiesta 2 Coop Mission 2;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:COOP 3P QUEST (F2) 2;
 #DIFFICULTY:Edit;
 #METER:99;

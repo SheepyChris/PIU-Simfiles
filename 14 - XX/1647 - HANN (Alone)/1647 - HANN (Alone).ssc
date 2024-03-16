@@ -12026,7 +12026,7 @@
 
 
 #NOTEDATA:;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:COOP 2P;
 #DIFFICULTY:Edit;
 #METER:99;

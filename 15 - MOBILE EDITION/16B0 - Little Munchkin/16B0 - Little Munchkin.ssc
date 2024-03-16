@@ -7604,7 +7604,7 @@
 
 
 #NOTEDATA:;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:UCS COOP 2P;
 #DIFFICULTY:Edit;
 #METER:99;

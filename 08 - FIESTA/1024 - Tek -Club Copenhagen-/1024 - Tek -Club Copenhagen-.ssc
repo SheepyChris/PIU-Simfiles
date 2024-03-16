@@ -8969,7 +8969,7 @@
 
 #NOTEDATA:;
 #CHARTNAME:Party Hard In Copenhagen;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:UCS COOP 5P;
 #DIFFICULTY:Edit;
 #METER:99;

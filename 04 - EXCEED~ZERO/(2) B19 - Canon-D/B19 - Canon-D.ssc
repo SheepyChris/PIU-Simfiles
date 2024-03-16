@@ -28801,7 +28801,7 @@ FF0{1|h|0|0}{1|h|0|0}{1|h|0|0}{1|h|0|0}0FF
 
 #NOTEDATA:;
 #CHARTNAME:Prime 1.14 Co-op;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:COOP 2P;
 #DIFFICULTY:Edit;
 #METER:99;
@@ -29836,7 +29836,7 @@ x00000000y
 
 #NOTEDATA:;
 #CHARTNAME:Fiesta 2 Coop Mission QC071;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:QUEST COOP 2P;
 #DIFFICULTY:Edit;
 #METER:99;

@@ -9839,7 +9839,7 @@
 
 
 #NOTEDATA:;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:COOP 3P;
 #DIFFICULTY:Edit;
 #METER:99;
@@ -10631,7 +10631,7 @@ xy00xz00yz
 
 
 #NOTEDATA:;
-#STEPSTYPE:pump-double;
+#STEPSTYPE:pump-routine;
 #DESCRIPTION:COOP 2P OUCS;
 #DIFFICULTY:Edit;
 #METER:99;
